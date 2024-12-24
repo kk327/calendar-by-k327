@@ -8,7 +8,7 @@ There's a remember me option that uses localStorage, so you don't have to login 
 After you log in, you're greeted with the main screen - the calendar.  
 At the top there's a header with a logout button in the left top corner, month/year navigation in the center at the top(you can also use arrow keys for it), and names of week days below it.  
 Under the names of the weeks are the days themselves. The current day is marked with a red outline, and days that have notes added to them have a colored background.  
-To add or edit a note, click on the ??? day. Now, you can type the note from the center of your screen. In the left top corner there's a button to set the color of the note, and in the right top corner there's a button to go back to the main screen(you can also press the backspace key to do it).  
+To add or edit a note, click on a day. Now, you can type the note from the center of your screen. In the left top corner there's a button to set the color of the note, and in the right top corner there's a button to go back to the main screen(you can also press the backspace key to do it).  
 On the main screen, you can also hover your cursor over a day with a note to read the note without entering edit mode.  
 The calendar webapp is responsive so it can be viewed on mobile devices. Of course keyboard controls and hovering your cursor won't work there.
 
